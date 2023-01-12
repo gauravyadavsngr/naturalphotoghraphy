@@ -1,0 +1,45 @@
+#landing-text {
+    display: flex;
+    flex: 0 1 40vw;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    background-color: bisque;
+}
+#landing{
+    width: 100%;
+}
+.caption{
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    width: 140%;
+
+}
+.right-container{
+    display: flex;
+    flex-direction: column;
+
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    background: #b4e7e7;
+    height: auto;
+}
+#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: bisque;
+}
+#copyright{
+    background-color: red;
+    font-style: italic;
+    height: 3vh;
+}
